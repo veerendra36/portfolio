@@ -1,0 +1,205 @@
+body{
+    margin: 0;
+    background-color: black;
+    
+}
+.logo{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    top: 45px;
+    right: 0;
+    left: 35;  
+}
+.intouch{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+    
+    top:0;
+    right: 0;
+    left: 1300px;
+    border-top: 10px;
+    border-color: white;
+}
+.name1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    top: 300px;
+    left: 150px;
+    position: absolute;
+}
+.name2{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    left: 150px;
+    top: 400px;
+    position: absolute;
+}
+p{
+    color: white;
+    width: 550px;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 25px;
+    left: 150px;
+    top: 570px;
+    border: 10px;
+    border-color: white;
+    position: absolute;
+    
+}
+img{
+    width: 750px;
+    height: 750px;
+    position: relative;
+    left: 730px;
+}
+
+.image2{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 400px;
+}
+.skills1_img{
+    top: 200px;
+    width: 800px;
+    height: 300px;
+    position: relative;
+    left: 700px;
+}
+.skills2_img{
+    width: 800px;
+    height: 300px;
+    position: relative;
+    left: 0px;
+    top: 270px;
+}
+.skills3_img{
+    top: 340px;
+    width: 800px;
+    height: 295px;
+    position: relative;
+    left: 700px;
+}
+.top-container{
+    background-color: black;
+    padding-top: 100px;
+}
+.middle-container{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+}
+.bottom-container{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: 500px;
+}
+.profile{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+}
+.skills{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    position: relative;
+}
+.skill-row{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    position: relative;
+}
+.skill-row-2{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    position: relative;
+}
+.copy_right_p{
+    top: 270px;
+    left: 690px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif
+}
+.programming_p{
+    position: absolute;
+    top: 300px;
+    width: 400px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+.ML_p{
+    position: absolute;
+    top: 650px;
+    left: 1000;
+    width: 400px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.Database_p{
+    position: absolute;
+    top: 1000px;
+    width: 400px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+.touch{
+    top: 0px;
+    left: 620px;
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+}
+.touch_p{
+    top: 90px;
+    left: 630px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.skills_heading{
+    top: 50px;
+    left: 730px;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+}
+.footer-link1{
+    top: 220px;
+    left: 1220px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    position: absolute;
+    color: white;
+}
+.footer-link2{
+    top: 220px;
+    left: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    position: absolute;
+    color: white;
+}
+.footer-link3{
+    top: 220px;
+    left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    position: absolute;
+    color: white;
+}
+.Contact_btn{
+    top: 150px;
+    left: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    position: absolute;
+}
